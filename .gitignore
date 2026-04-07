@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+.env
+*.env
+*.venv
+Pipfile.lock
+.workon_home/
+
+# SQLite database
+*.db
+
+# Migrations (optional: you can include them if needed)
+migrations/
